@@ -190,6 +190,57 @@ README File
 
  • **11-Apr-2026 (Saturday):** Took leave due to third project review.
 
-• **13-Apr-2026 (Monday):** Learned basics of RabbitMQ, Spring Batch with Excel, and Microservices.
+• **13-Apr-2026 (Monday)**: Started learning RabbitMQ, Spring Batch with Excel, and Microservices concepts.
+
+• **14-Apr-2026 (Tuesday)**: Started learning Redis concepts for Microservices.
+
+• **15-Apr-2026 (Wednesday)**: Continued learning Redis concepts for Microservices.
+
+• **16-Apr-2026 (Thursday)**: Covered important Microservices concepts and completed the basic setup for an E-Commerce application using Microservices architecture.
+
+• **17-Apr-2026 (Friday)**: Started working on Book Store Microservices and completed infrastructure services including Eureka Server, Config Server, and API Gateway.
+
+• **18-Apr-2026 (Saturday)**: Attended PowerSkill training session and revised presentation fundamentals and communication rules.
+
+• **20-Apr-2026 (Monday)**: Completed infrastructure services setup and started working on Admin Service.
+
+• **21-Apr-2026 (Tuesday)**: Completed Admin Service and started working on Common Library and User Service.
+
+• **22-Apr-2026 (Wednesday)**: Completed Common Library and User Service and started working on Cart Service and Customer Service.
+
+• **23-Apr-2026 (Thursday)**: Leave due to Election Day.
+
+• **24-Apr-2026 (Friday)**: Completed Order Service and Product Service and started working on Notification Service.
+
+• **25-Apr-2026 (Saturday)**: Attended PowerSkill training session and revised presentation fundamentals and communication rules.
+
+• **27-Apr-2026 (Monday)**: Completed Notification Service and started working on Wishlist Service and Feedback Service.
+
+• **28-Apr-2026 (Tuesday)**: Completed infrastructure services and verified all API endpoints.
+
+• **29-Apr-2026 (Wednesday)**: Leave due to illness.
+
+• **30-Apr-2026 (Thursday)**: Started learning Cloud and AWS concepts.
+
+• **02-May-2026 (Saturday)**: Attended PowerSkill training session and revised presentation fundamentals and communication rules.
+
+• **04-May-2026 (Monday)**: Learned Docker concepts.
+
+• **05-May-2026 (Tuesday)**: Attempted deployment of the previously developed Greeting App using AWS and Docker concepts.
+
+• **06-May-2026 (Wednesday)**: Started working on the group project "Stock-Portfolio-Monitoring-App" and contributed to Auth Service and Notification Service.
+
+• **07-May-2026 (Thursday)**: Off due to final year project viva.
+
+• **08-May-2026 (Friday)**: Off due to final year project viva.
+
+• **09-May-2026 (Saturday)**: Off due to final year project viva.
+
+• **11-May-2026 (Monday)**: Pushed Auth Service and Notification Service to the common GitHub repository maintained by the team lead and raised pull requests.
+
+• **12-May-2026 (Tuesday)**: Worked on deployment of the completed Stock Portfolio application.
+
+• **13-May-2026 (Wednesday)**: Attended Spring Boot review session with mentor and cross-verified GitHub repositories and folder structures.
+
 
 
